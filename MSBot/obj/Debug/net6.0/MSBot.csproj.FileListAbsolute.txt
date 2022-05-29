@@ -1,0 +1,15 @@
+C:\Users\mihae\source\repos\MSBot\MSBot\bin\Debug\net6.0\MSBot.exe
+C:\Users\mihae\source\repos\MSBot\MSBot\bin\Debug\net6.0\MSBot.deps.json
+C:\Users\mihae\source\repos\MSBot\MSBot\bin\Debug\net6.0\MSBot.runtimeconfig.json
+C:\Users\mihae\source\repos\MSBot\MSBot\bin\Debug\net6.0\MSBot.dll
+C:\Users\mihae\source\repos\MSBot\MSBot\bin\Debug\net6.0\MSBot.pdb
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.csproj.AssemblyReference.cache
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.AssemblyInfoInputs.cache
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.AssemblyInfo.cs
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.csproj.CoreCompileInputs.cache
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.dll
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\refint\MSBot.dll
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.pdb
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\MSBot.genruntimeconfig.cache
+C:\Users\mihae\source\repos\MSBot\MSBot\obj\Debug\net6.0\ref\MSBot.dll
